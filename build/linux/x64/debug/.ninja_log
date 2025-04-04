@@ -1,0 +1,26 @@
+# ninja log v5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/libflutter_linux_gtk.so	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_engine.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_value.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/fl_view.h	43126d760f268ad5
+0	11247	0	/home/growlt321/Desktop/task_manager/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	43126d760f268ad5
+0	11247	0	flutter/_phony_	43126d760f268ad5
+11247	13018	1743768302046116899	runner/CMakeFiles/task_manager.dir/__/flutter/generated_plugin_registrant.cc.o	b707b381af699d73
+11247	13027	1743768302054116737	runner/CMakeFiles/task_manager.dir/main.cc.o	98c8761d11d2e1f3
+11247	13234	1743768302266112424	runner/CMakeFiles/task_manager.dir/my_application.cc.o	4f27d6e898f9598f

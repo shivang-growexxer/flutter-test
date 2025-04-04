@@ -1,0 +1,1 @@
+ /home/growlt321/Desktop/task_manager/.dart_tool/flutter_build/1c30287d487cf2fd272f4a67c1d33b27/native_assets.json: 

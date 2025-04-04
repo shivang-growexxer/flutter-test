@@ -1,0 +1,2 @@
+/home/growlt321/Desktop/task_manager/android/app/.cxx/Debug/3b3c5y22/x86_64/CMakeFiles/edit_cache.dir
+/home/growlt321/Desktop/task_manager/android/app/.cxx/Debug/3b3c5y22/x86_64/CMakeFiles/rebuild_cache.dir
